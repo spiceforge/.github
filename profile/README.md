@@ -1,6 +1,7 @@
 
+
 <div align="center">
-	<img src="https://img.shields.io/badge/Folaint-Wissensbasis%20f%C3%BCr%20den%20Mittelstand-blue" alt="Folaint Logo" />
+	<img src="../logo.jpeg" alt="Folaint Logo" width="180" />
   
 	<h1>Folaint</h1>
 	<h3>Ihr Unternehmenswissen. Strukturiert. Sicher. Sofort nutzbar.</h3>
