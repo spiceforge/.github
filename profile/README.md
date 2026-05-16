@@ -1,12 +1,44 @@
-## Hi there 👋
 
-<!--
+<div align="center">
+	<img src="https://img.shields.io/badge/Folaint-Wissensbasis%20f%C3%BCr%20den%20Mittelstand-blue" alt="Folaint Logo" />
+  
+	<h1>Folaint</h1>
+	<h3>Ihr Unternehmenswissen. Strukturiert. Sicher. Sofort nutzbar.</h3>
+</div>
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Warum Folaint?
+
+**Folaint** macht das Wissen Ihres Unternehmens auffindbar, nutzbar und zukunftssicher. Statt verstreuter Informationen in SAP, PDFs, E-Mails oder Excel-Dateien erhalten Sie eine zentrale, maschinenlesbare Wissensbasis – als Knowledge Graph, logisch verknüpft und jederzeit abfragbar.
+
+### Ihre Vorteile auf einen Blick
+
+- **Sofort einsatzbereit:** In nur vier Wochen zur validierten, on-premise Wissensbasis.
+- **Volle Datensouveränität:** Keine Cloud, keine externen API-Calls – Ihre Daten bleiben bei Ihnen.
+- **Keine Halluzinationen:** Deterministische Antworten statt KI-Risiko.
+- **Branchen-Templates:** Schnellstart durch erprobte, branchenspezifische Ontologie-Bausteine.
+- **Automatisierte Qualität:** Von der Datenextraktion bis zur Validierung – alles aus einer Hand.
+
+---
+
+## So funktioniert Folaint
+
+1. **Ziel-Fragen definieren:** Was soll Ihr Wissensgraph beantworten können?
+2. **Daten verbinden:** Strukturierte (z.B. SAP, Excel) und unstrukturierte Quellen (PDFs, E-Mails) werden integriert.
+3. **Entitäten & Beziehungen extrahieren:** Modernste KI-gestützte Methoden, aber mit deterministischem Ergebnis.
+4. **Validierung & Übergabe:** Sie erhalten eine geprüfte, abfragbare Wissensbasis – inklusive Dokumentation und Query-Bibliothek.
+
+---
+
+## Für wen ist Folaint?
+
+Ideal für produzierende Unternehmen, Banken, Bau und alle, die ihr Wissen sichern und nutzbar machen wollen – ohne Kompromisse bei Sicherheit und Kontrolle.
+
+---
+
+<div align="center">
+<b>Folaint – Ihr Weg zu einer maschinenlesbaren, sicheren und skalierbaren Wissensbasis.</b>
+
+<i>Kontaktieren Sie uns für eine unverbindliche Demo!</i>
+</div>
