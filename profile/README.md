@@ -3,9 +3,12 @@
 <div align="center">
 	<img src="../logo.jpeg" alt="Folaint Logo" width="180" />
   
-	<h1>Folaint</h1>
-	<h3>Ihr Unternehmenswissen. Strukturiert. Sicher. Sofort nutzbar.</h3>
 </div>
+
+
+# Folaint
+
+### Ihr Unternehmenswissen. Strukturiert. Sicher. Sofort nutzbar.
 
 ---
 
