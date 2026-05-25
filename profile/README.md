@@ -1,3 +1,11 @@
+<h1> 
+
+---
+
+</h1>
+
+
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2800&pause=2000&color=C5D86D&center=true&vCenter=true&width=500&lines=+Spice+Above+All" alt="Spice Above All">
 </div>
