@@ -1,8 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2800&pause=2000&color=C5D86D&center=true&vCenter=true&width=435&lines=🧂+Spice+Above+All">
-    <img alt="Spice Above All" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2800&pause=2000&color=C5D86D&center=true&vCenter=true&width=435&lines=+Spice+Above+All">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2800&pause=2000&color=C5D86D&center=true&vCenter=true&width=500&lines=+Spice+Above+All" alt="Spice Above All">
 </div>
 
 <p align="center">
