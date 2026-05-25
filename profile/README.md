@@ -15,7 +15,7 @@
 
 <br/>
 
-## <span style="color: #C5D86D;">🌐 Our Mission: Connect the Dots</span>
+## <span style="color: #C5D86D;"> Our Mission: Connect the Dots</span>
 
 <p align="center">
   <em>At <strong>SpiceForge</strong>, we believe the future belongs to those who can connect knowledge across boundaries.</em>
@@ -82,7 +82,7 @@ Only I will remain."</em>
 
 <br/>
 
-## <span style="color: #C5D86D;">🌶️ What We Value</span>
+## <span style="color: #C5D86D;"> What We Value</span>
 
 <table>
 <tr>
@@ -106,7 +106,7 @@ Only I will remain."</em>
 
 <br/>
 
-<summary><h2 style="display: inline-block; color: #C5D86D;">📜 SpiceForge Startup & Team Principles</h2></summary>
+<summary><h2 style="display: inline-block; color: #C5D86D;"> SpiceForge Startup & Team Principles</h2></summary>
 
 <br/>
 
