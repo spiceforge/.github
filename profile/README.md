@@ -1,14 +1,11 @@
-<h1> 
-
----
-
-</h1>
-
-
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2800&pause=2000&color=C5D86D&center=true&vCenter=true&width=500&lines=+Spice+Above+All" alt="Spice Above All">
 </div>
+
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Live-C5D86D?style=for-the-badge&labelColor=1a2332&color=C5D86D" alt="Status">
