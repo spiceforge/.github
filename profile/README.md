@@ -47,23 +47,29 @@ Break down silos and build bridges between ideas
 <br/>
 
 <div align="center">
-  
-```
-┌─────────────────────────────────────────────────┐
-│  "Fear is the mind-killer.                      │
-│   Fear is the little-death that brings          │
-│   total obliteration.                           │
-│   I will face my fear.                          │
-│   I will permit it to pass over me and          │
-│   through me.                                   │
-│   And when it has gone past I will turn         │
-│   the inner eye to see its path.                │
-│   Where the fear has gone there will be         │
-│   nothing. Only I will remain."                 │
-│                                                 │
-│                       — Bene Gesserit Litany    │
-└─────────────────────────────────────────────────┘
-```
+
+<table>
+<tr>
+<td align="center" style="border: 2px solid #C5D86D; border-radius: 8px; padding: 32px; background: #0d1117;">
+
+<br/>
+<p style="font-size: 1.1em; line-height: 1.8; font-style: italic; color: #e6edf3;">
+<em>"Fear is the mind-killer.<br/>
+Fear is the little-death that brings total obliteration.<br/>
+I will face my fear.<br/>
+I will permit it to pass over me and through me.<br/>
+And when it has gone past I will turn the inner eye to see its path.<br/>
+Where the fear has gone there will be nothing.<br/>
+Only I will remain."</em>
+</p>
+
+<br/>
+
+<sub style="color: #C5D86D;">— Bene Gesserit Litany</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
